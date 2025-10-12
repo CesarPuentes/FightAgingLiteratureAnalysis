@@ -1,5 +1,8 @@
 fightaging_articles.db
 fightaging_articles.db.zip
 .venv
+.venv2
 test.ipynb
 articles_cleaned.pkl
+challenges.ipynb
+test.txt
