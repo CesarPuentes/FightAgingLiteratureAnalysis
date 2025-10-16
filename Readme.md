@@ -14,9 +14,9 @@ The original content can be found at https://www.fightaging.org/.
 
 ## Results of each experiment
 
-1. [Manual Topic Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/4.Results_Analysis/1.%20Manual_Topic_Analysis.md)
-2. [NER Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/4.Results_Analysis/2.%20NER_Analysis.md)
-3. [BERT Topic Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/4.Results_Analysis/3.%20BERT_Topic_Analysis.md)
+1. [Manual Topic Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/Data_Analysis/4.Results_Analysis/1.%20Manual_Topic_Analysis.md)
+2. [NER Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/Data_Analysis/4.Results_Analysis/2.%20NER_Analysis.md)
+3. [BERT Topic Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/Data_Analysis/4.Results_Analysis/3.%20BERT_Topic_Analysis.md)
 
 
 # Demonstration of a simple RAG Application
