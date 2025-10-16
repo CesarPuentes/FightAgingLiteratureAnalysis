@@ -18,6 +18,11 @@ The original content can be found at https://www.fightaging.org/.
 2. [NER Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/4.Results_Analysis/2.%20NER_Analysis.md)
 3. [BERT Topic Analysis](https://github.com/CesarPuentes/FightAgingLiteratureAnalysis/blob/master/4.Results_Analysis/3.%20BERT_Topic_Analysis.md)
 
+
+# Demonstration of a simple RAG Application
+
+![Demonstration of the feature](sample.gif)
+
 # Conclusion
 
 ---

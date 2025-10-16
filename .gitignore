@@ -7,3 +7,9 @@ articles_cleaned.pkl
 challenges.ipynb
 test.txt
 .env
+aging_topics_full.bertopic
+articles_with_final_entities.pkl
+en_core_sci_lg-0.5.1.tar.gz
+lda_model.joblib
+Data_Analysis/inference_results/
+RAG_application/chroma_db
